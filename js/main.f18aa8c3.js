@@ -6905,7 +6905,7 @@
                                     children: "About 0xJEW:"
                                 }), (0, u.jsx)("span", {
                                     class: "koshi",
-                                    children: "13 Years old teenager from Palestine."
+                                    children: "A passionate developer from India"
                                 }), (0, u.jsx)("span", {
                                     class: "koshi",
                                     children: "ㅤ "
