@@ -6930,6 +6930,19 @@
                                         class: "rainbow",
                                         children: "Github"
                                     })
+
+
+                                }), (0, u.jsx)("br", {}), (0, u.jsx)("a", {
+                                    target: "_blank",
+                                    rel: "noopener noreferrer",
+                                    href: "https://www.youtube.com/watch?v=11GKqZPi41s",
+                                    children: (0, u.jsx)("span", {
+                                        class: "koshi",
+                                        children: "nudes"
+                                    })
+
+
+
                                 })]
                             })
                         })
